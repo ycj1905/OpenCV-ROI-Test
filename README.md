@@ -7,4 +7,4 @@ C. m開頭的檔案為matching(不同方法)
 
 D. build_cpp.sh: build c++
 
-E. transfer.sh: 傳輸檔案(從VirtuablBox傳到Beaglebone)
+E. transfer.sh: 傳輸檔案(從VirtualBox傳到Beaglebone)
